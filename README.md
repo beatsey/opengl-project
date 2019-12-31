@@ -28,3 +28,6 @@ ESC - close the program\
 R - enable/disable mirrors on the scene
 
 If you have any questions or suggestions please write to my personal email lixa4ik1@gmail.com.
+
+To give you an idea of what it looks like here is a screenshot.
+![Alt text](/resources/screen.jpg?raw=true)
