@@ -23,6 +23,7 @@ Controls:\
 W - A - S - D - camera movements\
 space - lifting the camera\
 mouse - camera rotations\
+arrows left and right - move post-effect border left and right\
 ESC - close the program\
 R - enable/disable mirrors on the scene
 
