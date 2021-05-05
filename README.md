@@ -1,13 +1,14 @@
 OpenGL project
 ====
-Glad to see you in my student project for computer graphics course at Lomonosov Moscow State University.
-This course is score based. That means student has to implement certain graphical effects using shaders written in GLSL language and one specific effect has several credits depending on the difficulty of the implementation. In order to pass the course certain sum of credits has to be achieved.
+This OpenGL project was developed as a part of the curriculum at Lomonosov Moscow State University on Computer Graphics course during 5th semester of studies.
+The goal of the project was to implement certain graphical effects using GLSL shader language.
 
-This project written in VS 2019 using GLFW, GLEW, GLM libraries. All code is basically in main.cpp file.
-All the libraries are precompiled. You can find them in the project folders.
+This project is written in VS 2019 using GLFW, GLEW, GLM libraries.
+All code is basically in main.cpp file.
+All the necessary libraries are precompiled and located in the project folders.
 To start the project just run the Graphics.sln in Visual Studio 2019.
 
-In this projects there are implemented certain effects:
+Following effects are implemented:
 * Phong's lightning model
 * normal mapping
 * billboard implementation
